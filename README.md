@@ -1,10 +1,8 @@
-- 👋 Hi, I’m @scamee
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+初めまして。
 
-<!---
-scamee/scamee is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+エンジニアを目指して、独学で勉強しています。
+
+趣味は、 プログラミング / 読書 / ポーカー / ネットサーフィン です。
+
+よろしくお願い致します。
+
